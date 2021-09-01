@@ -1,0 +1,28 @@
+.img {
+    height: 300px;
+}
+
+.espelhar-direita {
+    transform: scaleX(-1);
+}
+
+.espelhar-vertical {
+    transform: scaleY(-1);
+}
+
+.aumentar-escala {
+    height: 600px;
+}
+
+.diminuir {
+    height: 150px;
+}
+
+.deslocar-direita {
+    transform: translateX(100px);
+}
+
+.rotacionar {
+    transform: rotate(90deg);
+}
+
